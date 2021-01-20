@@ -1,0 +1,4 @@
+<map id="nnp::Mode::readNeuralNetworkWeights" name="nnp::Mode::readNeuralNetworkWeights">
+<area shape="rect" id="node2" href="$classnnp_1_1Training.html#ab3025fc3780b67e91e063fd490640043" title="Initialize weights for all elements. " alt="" coords="308,5,477,47"/>
+<area shape="rect" id="node3" href="$classnnp_1_1Mode.html#ae1c9e69f1b28f7111440a3024d39daf0" title="Set up neural network weights from files with given name format. " alt="" coords="277,71,508,112"/>
+</map>

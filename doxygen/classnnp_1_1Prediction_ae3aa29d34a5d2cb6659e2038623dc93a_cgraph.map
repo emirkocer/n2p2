@@ -1,0 +1,9 @@
+<map id="nnp::Prediction::setup" name="nnp::Prediction::setup">
+<area shape="rect" id="node2" href="$classnnp_1_1Mode.html#a19a68b9d8750ddc0b440b1828ecf9f17" title="Write welcome message with version information. " alt="" coords="259,5,413,32"/>
+<area shape="rect" id="node3" href="$classnnp_1_1Mode.html#ae8ca16789e7794309cf9931e58eb882b" title="Open settings file and load all keywords into memory. " alt="" coords="236,56,436,83"/>
+<area shape="rect" id="node4" href="$classnnp_1_1Mode.html#a3fe5750e8062d071d384ff9626502d14" title="Read in atomic hardness from file. " alt="" coords="216,107,456,133"/>
+<area shape="rect" id="node5" href="$classnnp_1_1Mode.html#adffbed0cbae8bc9c4f4c4556ff113b5f" title="Combine multiple setup routines and provide a basic NNP setup. " alt="" coords="245,157,427,184"/>
+<area shape="rect" id="node6" href="$classnnp_1_1Mode.html#a5e5f584b6f8be7caaac02efb432c74a3" title="Set up neural network weights from files with given name format. " alt="" coords="221,209,451,250"/>
+<area shape="rect" id="node7" href="$classnnp_1_1Mode.html#aa26222b7b9dc3fd141f6e775690b5d2b" title="Set up symmetry function scaling from file. " alt="" coords="235,274,437,315"/>
+<area shape="rect" id="node8" href="$classnnp_1_1Mode.html#ae4b348e9b5e2ef89cb30c760bdb55153" title="Set up symmetry function statistics collection. " alt="" coords="235,339,437,381"/>
+</map>
